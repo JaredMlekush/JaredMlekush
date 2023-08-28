@@ -1,15 +1,15 @@
-### Hi there 👋, I'm Jared Mlekush
+<!DOCTYPE html>
 
-A Full Stack Data Scientist, who is passionate about Machine Learning and Analytics
-
-Connect with me or check out my other projects:
-
-LinkedIn: https://www.linkedin.com/in/jaredmlekush/
-
-Email: Jaredmlekush@gmail.com
-
-Portfolio: https://jaredmlekush.github.io/
-
+  <div class="header">
+    <h1>Hi there 👋, I'm Jared Mlekush</h1>
+    <p>A Full Stack Data Scientist, passionate about Machine Learning and Analytics🤖👨🏻‍💻</p>
+  </div>
+  <div class="content">
+    <h2>Connect with me or check out my other projects:</h2>
+    <p><a href="https://www.linkedin.com/in/jaredmlekush/">LinkedIn</a></p>
+    <p><a href="mailto:Jaredmlekush@gmail.com">Email</a></p>
+    <p><a href="https://jaredmlekush.github.io/">Portfolio</a></p>
+  </div>
 
 
 
