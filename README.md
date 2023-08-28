@@ -1,3 +1,10 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/JaredMlekush/JaredMlekush/assets/69776209/524438bf-2c8c-402a-abc6-310e2676f720.png" alt=”my banner”>
+
+</p>
+
+
 <!DOCTYPE html>
 
   <div class="header">
